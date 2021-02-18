@@ -13,6 +13,7 @@
 		FA13D62025DE853300B3EC61 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA13D61F25DE853300B3EC61 /* Assets.xcassets */; };
 		FA13D62325DE853300B3EC61 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA13D62225DE853300B3EC61 /* Preview Assets.xcassets */; };
 		FA13D62625DE853300B3EC61 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA13D62425DE853300B3EC61 /* LaunchScreen.storyboard */; };
+		FA13D62E25DE891300B3EC61 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA13D62D25DE891300B3EC61 /* CircleImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		FA13D62225DE853300B3EC61 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		FA13D62525DE853300B3EC61 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FA13D62725DE853300B3EC61 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FA13D62D25DE891300B3EC61 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				FA13D61B25DE853100B3EC61 /* SceneDelegate.swift */,
 				FA13D61D25DE853100B3EC61 /* ContentView.swift */,
 				FA13D61F25DE853300B3EC61 /* Assets.xcassets */,
+				FA13D62D25DE891300B3EC61 /* CircleImage.swift */,
 				FA13D62425DE853300B3EC61 /* LaunchScreen.storyboard */,
 				FA13D62725DE853300B3EC61 /* Info.plist */,
 				FA13D62125DE853300B3EC61 /* Preview Content */,
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FA13D61A25DE853100B3EC61 /* AppDelegate.swift in Sources */,
+				FA13D62E25DE891300B3EC61 /* CircleImage.swift in Sources */,
 				FA13D61C25DE853100B3EC61 /* SceneDelegate.swift in Sources */,
 				FA13D61E25DE853100B3EC61 /* ContentView.swift in Sources */,
 			);
